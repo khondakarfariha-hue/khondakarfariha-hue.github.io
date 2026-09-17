@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. in Mechatronics and Industrial Engineering, Chittagong University of Engineering & Technology (CUET), 2022 – 2026 (CGPA 3.26/4.00)
+* Higher Secondary Certificate (HSC), Holy Cross College, Dhaka, 2020 (GPA 5.00/5.00)
+* Secondary School Certificate (SSC), Motijheel Govt. Girls' High School, Dhaka, 2018 (GPA 5.00/5.00)
 
-Work experience
+Industrial Training & Attachment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Industrial Attachment — Walton, July 2026
+  * Calculated cycle time and proposed 5S implementation ideas for the battery manufacturing section
+  * Hands-on training in lead-acid battery manufacturing, including Red Tagging (5S), VRLA battery production, and QC under SOP-based practices
+* Industrial Attachment — BITAC (Bangladesh Industrial Technical Assistance Centre), Dec 2025 – Jan 2026
+* Industrial Tour — Shikolbaha Power Plant, June 2025
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical: Python, Computer Vision & Machine Learning, PLC, CNC Operation, Pneumatic & Hydraulic Systems, SolidWorks, Proteus
+* Core Competencies: Supply Chain Operations, Manufacturing Process Optimization, Lean Manufacturing, Six Sigma, Cross-Functional Collaboration
+* Languages: English, Bangla
 
-Publications
+Certifications & Activities
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python Programming — Edge Project, Bangladesh Computer Council
+* Machine Learning Internship — CodeAlpha
+* Creative Secretary — CUET Film Society
+* Dining Manager — Sufia Kamal Hall
