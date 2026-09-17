@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download my CV (PDF)](/Khondakar%20Fariha%20Tasnim%20CV.pdf)
 {% include base_path %}
 
 Education
